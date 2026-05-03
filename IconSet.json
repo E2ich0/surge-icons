@@ -1,0 +1,14 @@
+{
+  "name": "AI Services (Koolson Style)",
+  "icons": [
+    { "name": "Gemini", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/Gemini.png" },
+    { "name": "Claude", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/Claude.png" },
+    { "name": "OpenAI", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/OpenAI.png" },
+    { "name": "ChatGPT", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/OpenAI.png" },
+    { "name": "Copilot", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/Copilot.png" },
+    { "name": "Perplexity", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/Perplexity.png" },
+    { "name": "Grok", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/Grok.png" },
+    { "name": "DeepSeek", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/DeepSeek.png" },
+    { "name": "Mistral", "url": "https://raw.githubusercontent.com/E2ich0/surge-icons/main/ai/Mistral.png" }
+  ]
+}
